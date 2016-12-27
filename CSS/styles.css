@@ -1,0 +1,21 @@
+.start{
+  height: 50px;
+  width: 100px;
+  background-color: green;
+  text-align: center;
+  line-height: 50px;
+  display: inline-block;
+}
+
+.end{
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  text-align: center;
+  line-height: 50px;
+  display: inline-block;
+}
+
+.gameOver{
+  display: none;
+}
